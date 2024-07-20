@@ -1,0 +1,22 @@
+
+Chest Pain Summary
+
+Total Patients: 303
+
+Number of Non Heart Disease Patients: 165
+
+Chest Pain Type     Number of Patients     Male     Female
+Typical                    16               12        4
+Atypical                   41               25       16
+Non Anginal                69               35       34
+Asymptomatic               39               21       18
+----------------------------------------------------------
+
+Number of Heart Disease Patients: 138
+
+Chest Pain Type     Number of Patients     Male     Female
+Typical                     7                7        0
+Atypical                    9                7        2
+Non Anginal                18               17        1
+Asymptomatic              104               83       21
+----------------------------------------------------------

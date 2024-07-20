@@ -1,0 +1,28 @@
+﻿  816019469_heart_disease.cpp
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(592,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(593,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(857,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(858,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(859,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(860,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(861,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(862,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(944,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(945,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(946,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(947,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(948,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(949,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1036,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1037,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1038,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1039,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1040,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1041,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1145,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1146,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1147,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\antho_000\source\repos\816019469_heart_disease\816019469_heart_disease\816019469_heart_disease.cpp(1148,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  816019469_heart_disease_main.cpp
+  Generating Code...
+  816019469_heart_disease.vcxproj -> C:\Users\antho_000\source\repos\816019469_heart_disease\Debug\816019469_heart_disease.exe

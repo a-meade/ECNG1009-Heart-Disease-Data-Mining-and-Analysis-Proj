@@ -1,0 +1,31 @@
+                Summary
+
+        Sex                   Fbs
+Male:   114                 True:  22
+Female:  24                 False:116
+
+        Age                  thalach
+Min:  35                    Min:  71
+Mean: 57                    Mean:139
+Max:  77                    Max:  77
+
+        Cp                     Ca
+Typical:       7            0: 45
+Atypical:      9            1: 44
+Non-Anginal:  18            2: 31
+Asymptomatic:104            3: 17
+
+     Threstbps                Slope
+Min: 100                    Upsloping:   35
+Mean:134                    Flat:        91
+Max: 200                    Downsloping: 12
+
+        Chol                   Exang
+Min: 131                    True:  76
+Mean:251                    False: 62
+Max: 409
+
+       Rest ECG                 Thal
+Normal:      56              Normal:     36
+St-t:         3              Fixed:      12
+Hypertrophy: 79              Reversible: 89

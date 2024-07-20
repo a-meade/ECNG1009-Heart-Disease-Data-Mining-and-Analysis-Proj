@@ -1,0 +1,21 @@
+Coloured Fluoroscopy Summary: 
+
+All Patients: 303
+
+Number of Blood Vessels Highlighted: 
+
+0:175
+1: 65
+2: 38
+3: 20
+
+-----------------------------------
+Heart Disease Patients: 138
+
+Number of Blood Vessels Highlighted: 
+
+0: 45 (26%)
+1: 44 (68%)
+2: 31 (82%)
+3: 17 (85%)
+-----------------------------------
