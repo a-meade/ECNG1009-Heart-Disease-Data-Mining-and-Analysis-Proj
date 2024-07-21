@@ -1,0 +1,18 @@
+
+Age Data for Patients with Heart Disease
+Lowest Age: 35
+Higest Age: 77
+Average Age: 57
+Average Male Age: 56
+Average Female Age: 59
+
+0: 29-39, 1: 39-49, 2: 49-59, 3: 59-69, 4: 69-79, 
+
+0 4  *
+1 22  *****
+2 60  ***************
+3 48  ************
+4 4   *
+
+Each Star Represents 4 Persons.
+-----------------------------------------

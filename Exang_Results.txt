@@ -1,0 +1,23 @@
+
+Exercised Induced Angina Summary
+
+All Patients: 303
+
+Exercise Induced Angina Experienced:
+No: 204
+Yes: 99
+------------------------------------
+
+Non Heart Disease Patients: 165
+
+Exercise Induced Angina Experienced:
+No: 142
+Yes: 23
+------------------------------------
+
+Heart Disease Patients: 138
+
+Exercise Induced Angina Experienced:
+No: 62 (30%)
+Yes: 76 (77%)
+------------------------------------

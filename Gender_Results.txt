@@ -1,0 +1,18 @@
+
+Gender Summary
+
+Number of Patients: 303
+
+Number of Males:    207
+Number of Females:   96
+------------------------------
+Number without Heart Disease: 165 (54%)
+
+Males without Heart Disease: 93
+Females without Heart Disease: 72
+------------------------------
+Number with Heart Disease: 138 (46%)
+
+Males with Heart Disease: 114 (55%)
+Females with Heart Disease: 24 (25%)
+------------------------------

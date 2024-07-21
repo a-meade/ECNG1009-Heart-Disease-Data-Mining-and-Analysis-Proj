@@ -1,0 +1,19 @@
+                 Heart Disease
+               /               \
+              /                 \
+             /                   \
+           Yes                    No
+           138                    165
+           46%                    54%
+          /   \                  /   \
+         /     \                /     \
+        /       \              /       \
+       /         \            /         \
+ bps>120        bps<120     bps>120     bps<120
+   115             23         128          37
+    83%           17%          78%        22%
+
+Average Blood Pressure For Heart Disease Patients: 134
+
+Average Blood Pressure For Non Heart Disease Patients: 129
+-----------------------------------------------------------

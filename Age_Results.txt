@@ -1,0 +1,17 @@
+Age Data for all Patients
+Lowest Age: 29
+Higest Age: 77
+Average Age: 54
+Average Male Age: 54
+Average Female Age: 56
+
+0: 29-39, 1: 39-49, 2: 49-59, 3: 59-69, 4: 69-79, 
+
+0 16  ***
+1 72  **************
+2 125 *************************
+3 80  ****************
+4 10  **
+
+Each Star Represents 5 Persons.
+-----------------------------------------
