@@ -38,12 +38,15 @@ This function shows number of blood vessels highlighted by the fluoroscopy for a
 
 ## Use
 
-### 1
+### 1.
+------
 The application requires the UCI heart disease CSV input file. If the file is not found, an error is displayed on the console and the program quits.
 
-### 2
+### 2.
+------
 If the file is found in the directory, The application prints a menu to the console prompting the user to make a choice which produces visualisations and text reports based on the selection.
 
 ### 3.
+-----
 The application has built is error catching which prints error messages to the console if the any of the values in the csv do not match the required input
 
